@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png"group-title="MUSIC,TV POP HD 
+#EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png"group-title="MUSIC",TV POP HD 
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/rutv.png"group-title="MUSIC, RU.TV
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/rutv.png"group-title="MUSIC", RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/9543826/14430/v/1600/depositphotos_144301425-stock-illustration-letter-and-digit-m2-logo.jpg", M2
+#EXTINF:-1 tvg-logo="https://st3.depositphotos.com/9543826/14430/v/1600/depositphotos_144301425-stock-illustration-letter-and-digit-m2-logo.jpg"group-title="MUSIC", M2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Box_Hits_Logo-700x149.png"group-title="MUSIC, BOX HITS
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Box_Hits_Logo-700x149.png"group-title="MUSIC", BOX HITS
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2016/04/VH1-logo.png"group-title="MUSIC",VH1 HD
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -18,11 +18,11 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="sport",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="https://iokmovie.com/wp-content/uploads/2020/12/Wonder-Woman-1984-2020.jpg"group-title="MOVIE FILM", Wonder Woman 1984 (2020) วันเดอร์ วูแมน 1984
+#EXTINF:-1 tvg-logo="https://iokmovie.com/wp-content/uploads/2020/12/Wonder-Woman-1984-2020.jpg"group-title="MOVIE FILM", Wonder Woman 1984 (2020) 
 https://server1.onplayget.xyz/hls/oMeQFGq/file_720.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://iokmovie.com/wp-content/uploads/2020/05/Wonder-Woman-2017.jpg"group-title="MOVIE FILM", Wonder Woman (2017) วันเดอร์ วูแมน
+#EXTINF:-1 tvg-logo="https://iokmovie.com/wp-content/uploads/2020/05/Wonder-Woman-2017.jpg"group-title="MOVIE FILM", Wonder Woman (2017) 
 https://server1.onplayget.xyz/hls/yqMNAvP/file_720.mp4/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://moviekub.com/images/movie/Bi2dem4PC3h5Gok0SfaIt2fAE8ssFjH1164.jpg"group-title="MOVIE FILM", Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล
+#EXTINF:-1 tvg-logo="https://moviekub.com/images/movie/Bi2dem4PC3h5Gok0SfaIt2fAE8ssFjH1164.jpg"group-title="MOVIE FILM", Batman The Dark Knight (2008)
 https://p2p-ns1.sage.stream/hls/batman-the-dark-knight-2008/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/6/5/5/0/16550-the-dark-knight-rises-0-230-0-345-crop.jpg?k=38a6974b66"group-title="MOVIE FILM", The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด
+#EXTINF:-1 tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/6/5/5/0/16550-the-dark-knight-rises-0-230-0-345-crop.jpg?k=38a6974b66"group-title="MOVIE FILM", The Dark Knight Rises (2012)
 https://p2p-ns1.sage.stream/hls/batman-the-dark-knight-rises-2012/index.m3u8
