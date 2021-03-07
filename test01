@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png" ,ch3-hd
+https://www.we-play.tv/watching/tv/ch3-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png" ,ch5-hd
+https://www.we-play.tv/watching/tv/ch5-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/7hd.png" ,ch7-hd
+https://www.we-play.tv/watching/tv/ch7-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/mcot.png" ,mcot-hd
+https://www.we-play.tv/watching/tv/mcot-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/nbt.png" ,nbt
+https://www.we-play.tv/watching/tv/11-nbt
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/thaipbs.png" ,thai-pbs
+https://www.we-play.tv/watching/tv/thai-pbs
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/true4u.png" ,true4u
+https://www.we-play.tv/watching/tv/true4u
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/nation.png" ,nationtv
+https://www.we-play.tv/watching/tv/nationtv
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/mono29.png" ,mono29
+https://www.we-play.tv/watching/tv/mono29
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/tnn.png" ,tnn24
+https://www.ball24.tv/allchannel/?id=tnn
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/workpoint.png" ,workpoint
+https://www.we-play.tv/watching/tv/workpoint
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/gmm25.png" ,gmm25
+https://www.we-play.tv/watching/tv/gmm25
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/one-hd-poster1602705076.jpeg" ,one-hd
+https://www.we-play.tv/watching/tv/one-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/amarin.png" ,amarin
+https://www.we-play.tv/watching/tv/amarin-tv
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/pptv.png" ,pptv-hd
+https://www.we-play.tv/watching/tv/pptv-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png" ,thairath-tv
+https://www.we-play.tv/watching/tv/thairath-tv
+#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/ch8.png" ,ch8
+https://www.ball24.tv/allchannel/?id=ch8
+
 
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png"group-title="MUSIC",TV POP HD 
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
