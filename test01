@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png" ,ch3-hd
+#EXTINF:0 group-title="ดิจิตอล ทีวี" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png" ,ch3-hd
 https://www.we-play.tv/watching/tv/ch3-hd
-#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png" ,ch5-hd
+#EXTINF:0 group-title="ดิจิตอล ทีวี" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png" ,ch5-hd
 https://www.we-play.tv/watching/tv/ch5-hd
-#EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/7hd.png" ,ch7-hd
+#EXTINF:0 group-title="ดิจิตอล ทีวี" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/7hd.png" ,ch7-hd
 https://www.we-play.tv/watching/tv/ch7-hd
 #EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/mcot.png" ,mcot-hd
 https://www.we-play.tv/watching/tv/mcot-hd
@@ -34,6 +34,199 @@ https://www.we-play.tv/watching/tv/thairath-tv
 #EXTINF:0 group-title="tv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/ch8.png" ,ch8
 https://www.ball24.tv/allchannel/?id=ch8
 
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704657.jpeg" ,xzyte
+https://www.we-play.tv/watching/tv/true-xzyte
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/red-by-hbo-poster1602801864.jpeg" ,red
+https://www.we-play.tv/watching/tv/red-by-hbo
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/fox-movies-soundtrack-poster1602928694.jpeg" ,soundtrack
+https://www.we-play.tv/watching/tv/fox-movies-soundtrack
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/hbo-signature-poster1602801828.jpeg" ,-signature
+https://www.we-play.tv/watching/tv/hbo-signature
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/hbo-hits-poster1602801795.jpeg" ,hbo-hits
+https://www.we-play.tv/watching/tv/hbo-hits
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/hbo-family-poster1602801724.jpeg" ,family
+https://www.we-play.tv/watching/tv/hbo-family
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/cinemax-poster1602801656.jpeg" ,cinemax
+https://www.we-play.tv/watching/tv/cinemax
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/hbo-hd-poster1602799444.jpeg" ,/hbo-hd
+https://www.we-play.tv/watching/tv/hbo-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704702.jpeg" ,tvn
+https://www.we-play.tv/watching/tv/tvn
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704694.jpeg" ,kbs-world
+https://www.we-play.tv/watching/tv/kbs-world
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704689.jpeg" ,hits
+https://www.we-play.tv/watching/tv/hits
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704685.jpeg" ,movies
+https://www.we-play.tv/watching/tv/hits-movies
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704685.jpeg" ,hidef-1
+https://www.we-play.tv/watching/tv/hidef-1
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704673.jpeg" ,thai-film
+https://www.we-play.tv/watching/tv/true-thai-film
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704667.jpeg" ,music-hd
+https://www.we-play.tv/watching/tv/true-music-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704657.jpeg" ,zee-nung
+https://www.we-play.tv/watching/tv/zee-nung
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704650.jpeg" ,mtv
+https://www.we-play.tv/watching/tv/mtv-live-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704645.jpeg" ,series-
+https://www.we-play.tv/watching/tv/true-asian-series-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704638.jpeg" ,chinese
+https://www.we-play.tv/watching/tv/star-chinese-movies
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg" ,paramount
+https://www.we-play.tv/watching/tv/paramount-channel
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704607.jpeg" ,ccm
+https://www.we-play.tv/watching/tv/ccm
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704626.jpeg" ,/kmtv
+https://www.we-play.tv/watching/tv/kmtv
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg" ,warner
+https://www.we-play.tv/watching/tv/warner-tv
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704752.jpeg" ,film-hd
+https://www.we-play.tv/watching/tv/true-film-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704559.jpeg" ,lifetime
+https://www.we-play.tv/watching/tv/lifetime
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704553.jpeg" ,stingray
+https://www.we-play.tv/watching/tv/stingray-iconcerts
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704546.png" ,-waku
+https://www.we-play.tv/watching/tv/waku-waku-japan
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg" ,axn
+https://www.we-play.tv/watching/tv/axn-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704533.jpeg" ,extreme
+https://www.we-play.tv/watching/tv/blueant-extreme
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704527.jpeg" ,entertainment
+https://www.we-play.tv/watching/tv/blueant-entertainment
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704522.jpeg" ,food
+https://www.we-play.tv/watching/tv/food-network
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704516.jpeg" ,life
+https://www.we-play.tv/watching/tv/fox-life
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704510.jpeg" ,crime
+https://www.we-play.tv/watching/tv/fox-crime
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704505.jpeg" ,family
+https://www.we-play.tv/watching/tv/fox-family-movies
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg" ,-action
+https://www.we-play.tv/watching/tv/fox-action-movies
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg" ,movies
+https://www.we-play.tv/watching/tv/fox-movies
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg" ,thai
+https://www.we-play.tv/watching/tv/fox-thai
+
+#EXTINF:0 group-title="tv" tvg-logo="https://www.doofree88.com/storage/live/EHym8OtlAt9b7pqIhetdRkgYC3GgkT0nPpwLJIFP.jpg" ,/eurosport
+https://doomovie.com/live/eurosport
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704170.jpeg" ,sports-7
+https://www.we-play.tv/watching/tv/true-sports-7
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704164.jpeg" ,sports-6
+https://www.we-play.tv/watching/tv/true-sports-6
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704158.jpeg" ,sports-5
+https://www.we-play.tv/watching/tv/true-sports-5
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704152.jpeg" ,sports-2
+https://www.we-play.tv/watching/tv/true-sports-2
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704141.jpeg" ,hd-3
+https://www.we-play.tv/watching/tv/true-sports-hd-3
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704124.jpeg" ,hd-2
+https://www.we-play.tv/watching/tv/true-sports-hd-2
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704118.jpeg" ,-hd
+https://www.we-play.tv/watching/tv/true-sports-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703965.jpeg" ,hd-1
+https://www.we-play.tv/watching/tv/true-premier-football-hd-1
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703991.jpeg" ,hd-3
+https://www.we-play.tv/watching/tv/true-premier-football-hd-3
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/fox-sports-4-netherland-poster1602801426.jpeg" ,4
+https://www.we-play.tv/watching/tv/fox-sports-4-netherland
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/fox-sports-3-netherland-poster1602801408.jpeg" ,3
+https://www.we-play.tv/watching/tv/fox-sports-3-netherland
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/fox-sports-2-netherland-poster1602801393.jpeg" ,2
+https://www.we-play.tv/watching/tv/fox-sports-2-netherland
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/fox-sports-1-netherland-poster1602801374.jpeg" ,1
+https://www.we-play.tv/watching/tv/fox-sports-1-netherland
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/arena-sport-4-poster1602801314.jpeg" ,sport-4
+https://www.we-play.tv/watching/tv/arena-sport-4
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/arena-sport-3-poster1602801297.jpeg" ,sport-3
+https://www.we-play.tv/watching/tv/arena-sport-3
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/arena-sport-2-poster1602801279.jpeg" ,sport-2
+https://www.we-play.tv/watching/tv/arena-sport-2
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/arena-sport-1-poster1602801264.jpeg" ,sport-1
+https://www.we-play.tv/watching/tv/arena-sport-1
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/sport-tv-4-poster1602801172.jpeg" ,tv-4
+https://www.we-play.tv/watching/tv/sport-tv-4
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/sport-tv-3-poster1602801156.jpeg" ,tv-3
+https://www.we-play.tv/watching/tv/sport-tv-3
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/sport-tv-3-poster1602801156.jpeg" ,tv-2
+https://www.we-play.tv/watching/tv/sport-tv-2
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/sport-tv-1-poster1602801124.jpeg" ,tv-1
+https://www.we-play.tv/watching/tv/sport-tv-1
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/bt-sport-3-hd-poster1602800702.jpeg" ,3-hd
+https://www.we-play.tv/watching/tv/bt-sport-3-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/bt-sport-2-hd-poster1602800682.jpeg" ,2-hd
+https://www.we-play.tv/watching/tv/bt-sport-2-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/bt-sport-1-hd-poster1602800664.jpeg" ,1-hd
+https://doomovie.com/live/bt-sport-1-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/TSportsChannel.png" ,TSports
+https://www.doomovie-hd.com/?r=tv_view&id=189
+#EXTINF:0 group-title="tv" tvg-logo="https://fifa55u.com/images/icon/nbatvtrue.png" ,nba
+https://www.doomovie-hd.com/?r=tv_view&id=25
+#EXTINF:0 group-title="tv" tvg-logo="https://fifa55u.com/images/icon/GolfChannel.png" ,Golf
+https://www.doomovie-hd.com/?r=tv_view&id=27
+#EXTINF:0 group-title="tv" tvg-logo="https://fifa55u.com/images/icon/TrueSportTennis.png" ,Tennis
+https://www.doomovie-hd.com/?r=tv_view&id=26
+#EXTINF:0 group-title="tv" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein2.png" ,sports-2
+https://www.we-play.tv/watching/tv/bein-sports-2
+#EXTINF:0 group-title="tv" tvg-logo="https://overseer.blackboxsys.net/images/png/epl-bein1.png" ,-sports-1
+https://www.we-play.tv/watching/tv/bein-sports-1
+
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg" ,tlc-hd
+https://www.we-play.tv/watching/tv/tlc-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/outdoor-channel-poster1602705824.jpeg" ,outdoor
+https://www.we-play.tv/watching/tv/outdoor-channel
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg" ,geographic
+https://www.we-play.tv/watching/tv/national-geographic
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/nat-geo-wild-poster1602705760.jpeg" ,wild
+https://www.we-play.tv/watching/tv/nat-geo-wild
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/lovenature-4k-poster1602705702.jpeg" ,lovenature
+https://www.we-play.tv/watching/tv/lovenature-4k
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg" ,history
+https://www.we-play.tv/watching/tv/history-hd
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg" ,-h2
+https://www.we-play.tv/watching/tv/history-h2
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/discovery-asia-poster1602705589.jpeg" ,asia
+https://www.we-play.tv/watching/tv/discovery-asia
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg" ,discovery
+https://www.we-play.tv/watching/tv/discovery-channel
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/animal-planet-poster1602705496.jpeg" ,anima
+https://www.we-play.tv/watching/tv/animal-planet
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-animalplanet.png" ,animalplanet
+https://www.doomovie-hd.com/?r=tv_view&id=55
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeowild.jpg" ,wild
+https://www.doomovie-hd.com/?r=tv_view&id=49
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-natgeo.png" ,geographic
+https://doomovie.com/live/national-geographic
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-discovery.png" ,discovery
+https://www.doomovie-hd.com/?r=tv_view&id=56
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-bbcearth.png" ,bbc
+https://www.doomovie-hd.com/?r=tv_view&id=53
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-discovery.png" ,hd-discovery
+https://www.doomovie-hd.com/?r=tv_view&id=57
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-bbcearth.png" ,bbc
+https://doomovie.com/live/bbc-earth
+#EXTINF:0 group-title="tv" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/sd-animalplanet.png" ,animalplanet
+https://doomovie.com/live/animal-planet
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg" ,discovery
+https://doomovie.com/live/discovery-channel
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/history-h2-poster1602705634.jpeg" ,-h2
+https://doomovie.com/live/h2
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/history-hd-poster1602705667.jpeg" ,history
+https://doomovie.com/live/history
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/discovery-channel-poster1602705554.jpeg" ,hd-discovery
+https://doomovie.com/live/discovery-asia
+#EXTINF:0 group-title="tv" tvg-logo="https://www.we-play.tv//uploads/posters/national-geographic-poster1602705795.jpeg" ,geographic
+https://doomovie.com/live/national-geographic
+#EXTINF:0 group-title="tv" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png" ,lifestyle
+https://doomovie.com/live/bbc-lifestyle
+#EXTINF:0 group-title="tv" tvg-logo="https://www.doofree88.com/storage/live/a4cjOG3p1eM1LpvGh9iqSTTiW1hiU7YPE5L7NOKm.png" ,explore-life
+https://doomovie.com/live/explore-life
+#EXTINF:0 group-title="tv" tvg-logo="https://www.doofree88.com/storage/live/pT4AzU8x11M9O0MLiudWfFR6jGxw7BHZMMegne2I.png" ,explore-sci
+https://doomovie.com/live/explore-sci
+#EXTINF:0 group-title="tv" tvg-logo="https://www.doofree88.com/storage/live/qLx97KHqvU26z2uTp3CqhuYvr9ZtqMRQvnzg55hv.png" ,explore-wild
+https://doomovie.com/live/explore-wild
+
 
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png"group-title="MUSIC",TV POP HD 
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
@@ -50,8 +243,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="sport",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="sport",MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 tvg-logo="https://iokmovie.com/wp-content/uploads/2020/12/Wonder-Woman-1984-2020.jpg"group-title="MOVIE FILM", Wonder Woman 1984 (2020) 
 https://server1.onplayget.xyz/hls/oMeQFGq/file_720.mp4/index-v1-a1.m3u8
